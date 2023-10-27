@@ -334,5 +334,42 @@
     {
       "pregunta": "¿Cuál es la fórmula química del indio?",
       "respuesta": "In"
+    },
+    {
+      "pregunta": "¿En qué año se descubrió América?",
+      "respuesta": "1492."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "respuesta": "Camberra."
+    },
+    {
+      "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+      "respuesta": "William Shakespeare."
+    },
+    {
+      "pregunta": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+      "respuesta": "Oxígeno."
+    },
+    {
+      "pregunta": "¿En qué año se celebró la primera Copa Mundial de la FIFA?",
+      "respuesta": "1930."
+    },
+    {
+      "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+      "respuesta": "Leonardo da Vinci."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "respuesta": "Océano Pacífico."
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+      "respuesta": "George Washington."
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+      "respuesta": "Marte."
     }
   ]
