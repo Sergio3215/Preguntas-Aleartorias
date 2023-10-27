@@ -88,6 +88,6 @@ export default function App() {
                 </ModalContent>
             </Modal>
         </div>
-    )
+    );
 
 }
