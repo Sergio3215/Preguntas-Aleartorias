@@ -11,7 +11,7 @@ export default function App() {
 
     return (
         <div>
-            <Card className={`w-2/3 lg:left-72 md:left-40 top-unit-60 h-2/3 sm:left-36 lmb:left-28 mb:left-12 ${blur}`}>
+            <Card className={`w-2/3 lg:left-72 md:left-40 top-unit-60 h-2/3 sm:left-36 lmb:left-28 mb:left-12`}>
                 <CardBody>
                     <div className='text-center font-bold lg:text-2xl sm:text-2xl lmb:text-small mb:text-tiny'>
                         Preguntas Aleatorias - Privacidad
