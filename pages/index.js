@@ -36,7 +36,7 @@ export default function App() {
                     <div className='text-center font-bold lg:text-8xl sm:text-5xl lmb:text-4xl mb:text-2xl'>
                         Preguntas Aleatorias
                         {/* <Divider /> */}
-                        <Button className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 lg:w-unit-7xl md:w-unit-7xl sm:w-unit-7xl h-unit-3xl lg:text-5xl sm:text-5xl left-5 lmb:left-2 lmb:text-5xl  lmb:w-unit-7x mb:left-1 mb:text-2xl" onPress={async () => { extractJSON(); onOpen(); setBlur("blur-2xl") }}>Comenzar</Button>
+                        <Button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 lg:w-unit-7xl md:w-unit-7xl sm:w-unit-7xl h-unit-3xl lg:text-5xl sm:text-5xl left-5 lmb:left-2 lmb:text-5xl  lmb:w-unit-7x mb:left-1 mb:text-2xl" onPress={async () => { extractJSON(); onOpen(); setBlur("blur-2xl") }}>Comenzar</Button>
                     </div>
                 </CardBody>
             </Card>
@@ -55,7 +55,7 @@ export default function App() {
                                             (!answer) ?
                                                 <>
                                                     <div>
-                                                        <Button className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 mb:left-unit-4xl smb:-left-3" onClick={() => handleClick()}>Mostrar Respuesta</Button>
+                                                        <Button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 mb:left-unit-4xl smb:-left-3" onClick={() => handleClick()}>Mostrar Respuesta</Button>
                                                     </div>
                                                     <br />
                                                     <div className='text-center'>
@@ -66,7 +66,7 @@ export default function App() {
                                                 :
                                                 <>
                                                     <div>
-                                                        <Button className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 mb:left-unit-4xl smb:-left-3" onClick={() => handleClick()}>Ocultar Respuesta</Button>
+                                                        <Button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 mb:left-unit-4xl smb:-left-3" onClick={() => handleClick()}>Ocultar Respuesta</Button>
                                                     </div>
                                                     <br />
                                                     <div className='text-2xl text-center'>
